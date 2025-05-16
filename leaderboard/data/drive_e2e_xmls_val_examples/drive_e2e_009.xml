@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<routes>
+  <route id="9" road_id="1540" town="DriveE2ETown20Opt" scenario_csv_id="STR_001_200028" ego_id="200028">
+    <waypoints/>
+    <scenarios/>
+    <weathers>
+      <weather route_percentage="0" cloudiness="30.0" precipitation="0.0" precipitation_deposits="0.0" wind_intensity="10.0" sun_azimuth_angle="240.0" sun_altitude_angle="40.0"/>
+      <weather route_percentage="100" cloudiness="30.0" precipitation="0.0" precipitation_deposits="0.0" wind_intensity="10.0" sun_azimuth_angle="240.0" sun_altitude_angle="40.0"/>
+    </weathers>
+  </route>
+</routes>
